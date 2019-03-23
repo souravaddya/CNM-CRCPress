@@ -20,17 +20,17 @@ The proposed book is an edited volume, and we will invite the book chapter from 
 
 ## Topics include, but are not limited to, the following:
 1. Evolution of IoT, Cloud Network and Network Mobility
-	i. State of the art for cloud-IoT-networks
+	1. State of the art for cloud-IoT-networks
 		- Introduction of modern networks
 		-	The current trade for cloud-based IoT
 		- Challenges and issue
 		- Possible research directions
-	ii. The  IoT applications in cloud network and mobility
+	2. The  IoT applications in cloud network and mobility
 		- Introduction to cloud-based mobility
 		- The next generation of mobility management
 		- Challenges in cloud-based network mobility
 		- Performance analysis of cloud-based network mobility
-	iii. IoT cloud  network mobility
+	3. IoT cloud  network mobility
 		- Mobility management in next-generation network-based
 		- Mobility over the cloud and IoT
 		- Handover management in cloud IoT
