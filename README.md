@@ -1,6 +1,15 @@
-## Call for Book Chapters
+### Call for Book Chapters
 
-**"Cloud Network Management: An IOT based Framework "** will be publish by **CRC Press**, Taylor & Francis Group, USA
+**Cloud Network Management: An IOT based Framework** will be publish by **CRC Press**, Taylor & Francis Group, USA
+
+## Important Dates
+- Proposal (Extended abstract) Submission: April 20, 2019*
+- Proposal (Acceptance/Rejection): May 15, 2019 (no later than) 
+- Full Chapter due: July 15, 2019
+* Notification:   August 20, 2019
+* Revised submission to editor(s):   September 30, 2019
+* Submission of Chapters (to publisher): November 30, 2019
+* Publication Time: Q1/2020 (estimated)
 
 You can use the [editor on GitHub](https://github.com/souravaddya/CNM-CRCPress/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
