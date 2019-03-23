@@ -18,59 +18,58 @@ This book outlines advancements in the state-of-the-art, standards, and practice
 
 The proposed book is an edited volume, and we will invite the book chapter from the expert researcher without any negotiation of subject and publication quality.
 
-
 ## Topics include, but are not limited to, the following:
-1.	Evolution of IoT, Cloud Network and Network Mobility
-1.1.	State of the art for cloud-IoT-networks
-•	Introduction of modern networks
-•	The current trade for cloud-based IoT
-•	Challenges and issue
-•	Possible research directions
-1.2.	The  IoT applications in cloud network and mobility
-•	Introduction to cloud-based mobility
-•	The next generation of mobility management
-•	Challenges in cloud-based network mobility
-•	Performance analysis of cloud-based network mobility
-1.3.	IoT cloud  network mobility
-•	Mobility management in next-generation network-based
-•	Mobility over the cloud and IoT
-•	Handover management in cloud IoT
-•	Future direction and open challenges
-2	Standards and Protocol
-2.1.	The IoT based Cloud Network: Architecture and Design
-•	The advanced design of future cloud IoT
-•	Standardization and regularization for cloud IoT
-•	Mobility management scheme for cloud IoT
-•	Open challenges and pit-fill
-2.2.	A Taxonomy of IoT based cloud network: Technical workflow
-•	Technical overview of cloud-based IoT
-•	Real-time system implementation prerequisite
-•	Technical challenges to implement the cloud IoT
-•	Possible solution for real-time implementation
-2.3.	The Edge and Fog based IoT Cloud
-•	The next generation could data services
-•	The Edge and fog cloud service and networks
-•	The Edge-fog-IoT network and state-of-art
-•	Challenges and solutions
-3	The Arrowhead Framework Architecture
-3.1.	A Taxonomy of IoT Cloud Network over Computing
-•	The introduction of cloud over IoT applications
-•	Cloud computing paradigm over traditional computing
-•	IoT cloud over tradition  computing, Architecture, Performance, and System
-•	Emerging areas of cloud networks over computing
-4	Engineering and applications for IoT Cloud Network
-4.1.	IoT Cloud Network for Smart Cities
-•	Introduction to Smart cities
-•	Smart cities design issues
-•	Cloud computing over smart cities
-•	IoT and smart cities
-•	New design and performance of IoT cloud for smart cities
-4.2.	IoT Cloud Network for Healthcare
-•	Introduction to modern health computing
-•	Smart healthcare design issues
-•	Cloud computing over the intelligent healthcare system
-•	IoT and smart health system paradigms
-•	New design and performance of IoT cloud for smart health care and monitor system 
+1. Evolution of IoT, Cloud Network and Network Mobility
+	1. State of the art for cloud-IoT-networks
+		- Introduction of modern networks
+		-	The current trade for cloud-based IoT
+		- Challenges and issue
+		- Possible research directions
+	2. The  IoT applications in cloud network and mobility
+		- Introduction to cloud-based mobility
+		- The next generation of mobility management
+		- Challenges in cloud-based network mobility
+		- Performance analysis of cloud-based network mobility
+	3. IoT cloud  network mobility
+		- Mobility management in next-generation network-based
+		- Mobility over the cloud and IoT
+		- Handover management in cloud IoT
+		- Future direction and open challenges
+2. Standards and Protocol
+	1. The IoT based Cloud Network: Architecture and Design
+		- The advanced design of future cloud IoT
+		- Standardization and regularization for cloud IoT
+		- Mobility management scheme for cloud IoT
+		- Open challenges and pit-fill
+	2. A Taxonomy of IoT based cloud network: Technical workflow
+		- Technical overview of cloud-based IoT
+		- Real-time system implementation prerequisite
+		- Technical challenges to implement the cloud IoT
+		- Possible solution for real-time implementation
+  3. The Edge and Fog based IoT Cloud
+		- The next generation could data services
+		- The Edge and fog cloud service and networks
+		- The Edge-fog-IoT network and state-of-art
+		- Challenges and solutions
+3. The Arrowhead Framework Architecture
+	1. A Taxonomy of IoT Cloud Network over Computing
+		- The introduction of cloud over IoT applications
+		- Cloud computing paradigm over traditional computing
+		- IoT cloud over tradition  computing, Architecture, Performance, and System
+		- Emerging areas of cloud networks over computing
+4. Engineering and applications for IoT Cloud Network
+	1. IoT Cloud Network for Smart Cities
+		- Introduction to Smart cities
+		- Smart cities design issues
+		- Cloud computing over smart cities
+		- IoT and smart cities
+		- New design and performance of IoT cloud for smart cities
+  2. IoT Cloud Network for Healthcare
+		- Introduction to modern health computing
+		- Smart healthcare design issues
+		- Cloud computing over the intelligent healthcare system
+		- IoT and smart health system paradigms
+		- New design and performance of IoT cloud for smart health care and monitor system
 
 
 
