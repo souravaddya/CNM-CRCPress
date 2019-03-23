@@ -1,4 +1,4 @@
-### Call for Book Chapters
+# Call for Book Chapters
 
 **Cloud Network Management: An IOT based Framework** will be publish by **CRC Press**, Taylor & Francis Group, USA
 
@@ -11,7 +11,7 @@
 * Submission of Chapters (to publisher): November 30, 2019
 * Publication Time: Q1/2020 (estimated)
 
-# Summary
+## Summary
 The data storage and its management at remote location is one of the most challenging task in cloud computing. Where, the mobile user seeks more data accuracy and availability in a pervasive environment. It was the core motivation for the Cloud Networks Internet-of-Things (CN-IoT). Here, we expect to retrieve the personal information arrays, and  it need a unique management methodology for growing information and manipulation procedure over the large data set and Internet. It is the major challenge in networks based cloud system.  With exponential growth of the network  and data management, the CN-IoT must to be implement in fast growing service sectors such as with  logistic and  enterprise management, where the “Big Data” has a crucial role.  The network based IoT work as a bridge to fill the gap between information technology and cloud  networks, where the data can be easily accessible. This book provides a  framework for the next generation cloud networks, and it is the emerging part of fifth-generation (5G) partnership projects.  This contributed book has following features  (1) on demand cloud network data access via internet and digitalization of contexts (2) creating an pervasive access network to enable a fully virtual mobile and interconnected distributed environment (3) providing a heterogeneous massive  data connectivity in a distributed framework.  It achieves higher speed, increased capacity, decreased latency, and better quality of service (QoS) and quality of experience (QoE). It is the one the efficient and promising technologies to meet the high demand of cloud based network support, which allows short-range, low-power, and low-cost based internet based universal data access. The automatic identification of CN-IoT based data handling capabilities allow to improve individual data user capability. The large level implementation has advantage of cost efficient data access benefits. 
 
 This book outlines advancements in the state-of-the-art, standards, and practices of cloud-based networking, IoT cloud application, cloud mobility management in wireless systems. It will be an incremental effort to identify emerging trends, research, and developments that will ultimately define the future of the cloud and relation with IoT. This book would be a valuable reference for academics and practitioners alike, and this title covers topics such as cloud and network virtualization technology, IoT service-oriented architecture, network utility computing, cloud network application services, grid, and pervasive computing, and  IoT enabling technologies. 
@@ -71,6 +71,17 @@ The proposed book is an edited volume, and we will invite the book chapter from 
 		- IoT and smart health system paradigms
 		- New design and performance of IoT cloud for smart health care and monitor system
 
+## * Proposal submission
+A proposal for book chapter is needed from prospective authors before the proposal *submission due date*, describing the objective, scope, and structure of the proposed chapter (no more than 500 words).  Acceptance of chapter proposals will be communicated to lead chapter authors after a formal double-blind review process, to ensure relevance, quality, and originality. The submission of chapter proposals should be processed via Easychair system (https://easychair.org/conferences/?conf=adv1sec). 
+
+**No personal email will be accepted.**
+
+## Book Editors
+Sanjay Kumar Biswash, NIIT University, India, skbismu@gmail.com
+Sourav Kanti Addya, Indian Institute of Technology Kharagpur, India, kanti.sourav@ieee.org
+
+# Additional Information
+Inquiries and chapter proposal submissions can be forwarded electronically by email, to editor(s) with “CRC Press Book Chapter” in title.
 
 
 You can use the [editor on GitHub](https://github.com/souravaddya/CNM-CRCPress/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
