@@ -64,7 +64,7 @@ The proposed book is an edited volume, and we will invite the book chapter from 
 		- Cloud computing over smart cities
 		- IoT and smart cities
 		- New design and performance of IoT cloud for smart cities
-  	2. IoT Cloud Network for Healthcare
+	2. IoT Cloud Network for Healthcare
 		- Introduction to modern health computing
 		- Smart healthcare design issues
 		- Cloud computing over the intelligent healthcare system
