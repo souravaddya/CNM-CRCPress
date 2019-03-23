@@ -72,9 +72,9 @@ The proposed book is an edited volume, and we will invite the book chapter from 
 		- New design and performance of IoT cloud for smart health care and monitor system
 
 ## * Proposal submission
-A proposal for book chapter is needed from prospective authors before the proposal *submission due date*, describing the objective, scope, and structure of the proposed chapter. Proposal (Extended abstract) in 500 words with title and list of authors. Full chapter with 10000-12000 words in specific CRC press format available in https://www.crcpress.com/resources/authors/why-publish-with-us, then go to Resources/For Authors.
+A proposal for book chapter is needed from prospective authors before the proposal *submission due date*, describing the objective, scope, and structure of the proposed chapter. Proposal (Extended abstract) in 500 words with title and list of authors. Full chapter with 10000-12000 words in specific [CRC press format available](https://www.crcpress.com/resources/authors/why-publish-with-us), then go to Resources/For Authors.
 
-Acceptance of chapter proposals will be communicated to lead chapter authors after a formal double-blind review process, to ensure relevance, quality, and originality. The submission of chapter proposals should be processed via Easychair system (https://easychair.org/cfp/CNM-CRCPress-2020). 
+Acceptance of chapter proposals will be communicated to lead chapter authors after a formal double-blind review process, to ensure relevance, quality, and originality. The submission of chapter proposals should be processed via Easychair system  [CNM-CRCPress-2020](https://easychair.org/cfp/CNM-CRCPress-2020). 
 
 **No personal email will be accepted.**
 
