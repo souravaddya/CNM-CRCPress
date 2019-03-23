@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Call for Book Chapters
+
+**"Cloud Network Management: An IOT based Framework "** will be publish by **CRC Press**, Taylor & Francis Group, USA
 
 You can use the [editor on GitHub](https://github.com/souravaddya/CNM-CRCPress/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
