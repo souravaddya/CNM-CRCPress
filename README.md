@@ -1,6 +1,6 @@
 # Call for Book Chapters
 
-**Cloud Network Management: An IOT based Framework** will be publish by **CRC Press**, Taylor & Francis Group, USA
+**Cloud Network Management: An IOT based Framework** will be published by **CRC Press**, Taylor & Francis Group, USA
 
 ## Important Dates
 - Proposal (Extended abstract) (500 words) Submission: April 20, 2019*
