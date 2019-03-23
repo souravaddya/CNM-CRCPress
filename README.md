@@ -3,9 +3,9 @@
 **Cloud Network Management: An IOT based Framework** will be publish by **CRC Press**, Taylor & Francis Group, USA
 
 ## Important Dates
-- Proposal (Extended abstract) Submission: April 20, 2019*
+- Proposal (Extended abstract) (500 words) Submission: April 20, 2019*
 - Proposal (Acceptance/Rejection): May 15, 2019 (no later than) 
-- Full Chapter due: July 15, 2019
+- Full Chapter due (10000-12000 words): July 15, 2019
 * Notification:   August 20, 2019
 * Revised submission to editor(s):   September 30, 2019
 * Submission of Chapters (to publisher): November 30, 2019
@@ -46,7 +46,7 @@ The proposed book is an edited volume, and we will invite the book chapter from 
 		- Real-time system implementation prerequisite
 		- Technical challenges to implement the cloud IoT
 		- Possible solution for real-time implementation
-  3. The Edge and Fog based IoT Cloud
+  	3. The Edge and Fog based IoT Cloud
 		- The next generation could data services
 		- The Edge and fog cloud service and networks
 		- The Edge-fog-IoT network and state-of-art
@@ -64,7 +64,7 @@ The proposed book is an edited volume, and we will invite the book chapter from 
 		- Cloud computing over smart cities
 		- IoT and smart cities
 		- New design and performance of IoT cloud for smart cities
-  2. IoT Cloud Network for Healthcare
+  	2. IoT Cloud Network for Healthcare
 		- Introduction to modern health computing
 		- Smart healthcare design issues
 		- Cloud computing over the intelligent healthcare system
@@ -72,12 +72,15 @@ The proposed book is an edited volume, and we will invite the book chapter from 
 		- New design and performance of IoT cloud for smart health care and monitor system
 
 ## * Proposal submission
-A proposal for book chapter is needed from prospective authors before the proposal *submission due date*, describing the objective, scope, and structure of the proposed chapter (no more than 500 words).  Acceptance of chapter proposals will be communicated to lead chapter authors after a formal double-blind review process, to ensure relevance, quality, and originality. The submission of chapter proposals should be processed via Easychair system (https://easychair.org/conferences/?conf=adv1sec). 
+A proposal for book chapter is needed from prospective authors before the proposal *submission due date*, describing the objective, scope, and structure of the proposed chapter. Proposal (Extended abstract) in 500 words with title and list of authors. Full chapter with 10000-12000 words in specific CRC press format available in https://www.crcpress.com/resources/authors/why-publish-with-us, then go to Resources/For Authors.
+
+Acceptance of chapter proposals will be communicated to lead chapter authors after a formal double-blind review process, to ensure relevance, quality, and originality. The submission of chapter proposals should be processed via Easychair system (https://easychair.org/cfp/CNM-CRCPress-2020). 
 
 **No personal email will be accepted.**
 
 ## Book Editors
 Sanjay Kumar Biswash, NIIT University, India, skbismu@gmail.com
+
 Sourav Kanti Addya, Indian Institute of Technology Kharagpur, India, kanti.sourav@ieee.org
 
 # Additional Information
