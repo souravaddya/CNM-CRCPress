@@ -46,7 +46,7 @@ The proposed book is an edited volume, and we will invite the book chapter from 
 		- Real-time system implementation prerequisite
 		- Technical challenges to implement the cloud IoT
 		- Possible solution for real-time implementation
-  	3. The Edge and Fog based IoT Cloud
+	3. The Edge and Fog based IoT Cloud
 		- The next generation could data services
 		- The Edge and fog cloud service and networks
 		- The Edge-fog-IoT network and state-of-art
