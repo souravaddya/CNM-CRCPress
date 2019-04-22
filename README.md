@@ -3,7 +3,7 @@
 **Cloud Network Management: An IOT based Framework** will be published by **CRC Press**, Taylor & Francis Group, USA
 
 ## Important Dates
-- Proposal (Extended abstract) (500 words) Submission: April 20, 2019*
+- Proposal (Extended abstract) (500 words) Submission: ~~April 20, 2019*~~ April 30, 2019* 
 - Proposal (Acceptance/Rejection): May 15, 2019 (no later than) 
 - Full Chapter due (10000-12000 words): July 15, 2019
 * Notification:   August 20, 2019
