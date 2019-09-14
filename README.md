@@ -83,7 +83,7 @@ Acceptance of chapter proposals will be communicated to lead chapter authors aft
 ## Book Editors
 [Sanjay Kumar Biswash](https://sites.google.com/site/drsanjaykumarbiswash/), NIIT University, India, skbismu@gmail.com
 
-[Sourav Kanti Addya](http://sourav.sinchan.in/), Indian Institute of Technology Kharagpur, India, kanti.sourav@ieee.org
+[Sourav Kanti Addya](http://souravkaddya.in/), Indian Institute of Technology Kharagpur, India, kanti.sourav@ieee.org
 
 # Additional Information
 Inquiries and chapter proposal submissions can be forwarded electronically by email, to editor(s) with “CRC Press Book Chapter” in the title.
