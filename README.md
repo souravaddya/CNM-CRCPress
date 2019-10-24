@@ -8,7 +8,8 @@
 - Full Chapter due (10000-12000 words): ~~July 15, 2019~~ ~~August 15, 2019~~ August 20, 2019 (FINAL)
 * Notification:   ~~August 20, 2019~~ September 20, 2019
 * Revised submission to editor(s):   ~~September 30, 2019~~ October 20, 2019
-* Submission of Chapters (to the publisher): November 30, 2019
+* Final decission from editor(s):    October 31, 2019
+* Submission of Chapters (to the publisher): ~~November 30, 2019~~ December 31, 2019
 * Publication Time: Q1/2020 (estimated)
 
 ## Summary
